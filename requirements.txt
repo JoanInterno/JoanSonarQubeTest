@@ -6,3 +6,5 @@ mypy==1.11.2
 pandas-stubs==2.2.3.241009
 mysql-connector-python==9.1.0
 gunicorn==23.0.0
+botocore==1.35.51
+boto3==1.35.51
